@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/anouarbro/count.svg?"  />
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=725796"  />
 </div>
 
 ###
