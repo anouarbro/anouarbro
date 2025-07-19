@@ -15,12 +15,6 @@
 
 ###
 
-<div align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=725796" style='border:none;'></iframe>
-</div>
-
-###
-
 <h1 align="center">hey there 👋</h1>
 
 ###
